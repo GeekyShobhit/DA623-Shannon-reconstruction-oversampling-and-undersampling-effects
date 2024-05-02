@@ -8,6 +8,7 @@ This repository is for DA623: Computing with Signals course project. It contains
 1) da623_assign_200103102.ipynb : Jupyter notebook containing the complete tutorial.
 2) ws_form, nq_form : Images used in the project for explanation purposes.
 3) README.md: This file provides an overview of the repository and its contents.
+4) pianos.mp3: Sample audio file used in the tutorial
 
 ## Usage
 To run the tutorial, clone the repository and run the notebook.
