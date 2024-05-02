@@ -18,7 +18,7 @@ Jupyter Notebook <br>
 Python <br>
 Numpy<br>
 Matplotlib <br>
-scikit-learn <br>
+SciPy <br>
 
 ## References
 https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Signal_Processing_and_Modeling/Signals_and_Systems_(Baraniuk_et_al.)/10%3A_Sampling_and_Reconstruction/10.02%3A_Sampling_Theorem#:~:text=The%20Nyquist%2DShannon%20Sampling%20Theorem%20states%20that%20a%20signal%20bandlimited,with%20sampling%20period%20Ts.
